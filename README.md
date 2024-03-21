@@ -1,4 +1,4 @@
-# <img src="profile-pic0.png" alt="ảnh bìa" style="">
+# <img src="profile-pic0.png" alt="ảnh bìa" style="50%">
 # CV cá nhân - Nguyễn Mạnh Cường
 # HUTECH - Đại học Công nghệ TP.HCM
 ## Thẻ sinh viên
